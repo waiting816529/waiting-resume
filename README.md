@@ -1,2 +1,2 @@
-# waiting-resume
-waiting's resume
+＃等待簡歷
+< title >履歷</title>
